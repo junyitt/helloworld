@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include <iostream>
 
 
+using namespace std;
 
-int main(void) {
-
-	printf("Hello World, From Marcus");
-
-	return 0;
+int main()
+{
+  cout <<"Hello world, from Zi Qing!"<< end1;
+  printf("Hello World, From Marcus");
+  return 0;
 }
