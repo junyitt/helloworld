@@ -1,3 +1,11 @@
-#include <stdio.h>
+#include <iostream>
 
-asdjlaksd
+using namespace std;
+
+int main () 
+{
+	cout << "Hello world, from Shee Yen! XD" << endl;
+	return 0;
+}
+ 
+
