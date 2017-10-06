@@ -1,3 +1,9 @@
-#include <stdio.h>
+#include <iostream>
 
-asdjlaksd
+using namespace std;
+
+int main()
+{
+  cout << "Hello world, from Wai Kiat!" << endl;
+  return 0;
+}
