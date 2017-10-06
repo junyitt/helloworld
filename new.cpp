@@ -1,3 +1,8 @@
 #include <stdio.h>
 
-asdjlaksd
+
+int main(){
+
+	printf("hello world from jun yitt!");
+
+}
